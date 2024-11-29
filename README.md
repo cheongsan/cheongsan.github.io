@@ -1,4 +1,4 @@
-![Onion Koonga](https://raw.githubusercontent.com/cheongsan/cheongsan/master/onion.koongya.jpeg)
+<img src="https://raw.githubusercontent.com/cheongsan/cheongsan/master/onion.koongya.jpeg" alt="Onion Koonga" width="200" />
 
 **AirPods help me work better**
 *by Developer Koongya*
